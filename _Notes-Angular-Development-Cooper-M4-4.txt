@@ -113,7 +113,14 @@ Module 4: Using Angular Templates
       - tasks: filter the buttons in the menu when it is clicked
 
       - modify Catalog.Component.html
+
+  - Handling Null Values with the Safe Navigation Operator
+      - https://app.pluralsight.com/ilx/video-courses/d5d30ea4-0af1-447a-b13a-e60a095337a6/4623aa46-bc16-4394-b680-a6c9ce70f48e/a7f248ae-d3f0-46f3-a8f6-607bb7b91c9b
+
       
+
+
+
 Module 5: Styling Angular Components
 
 Module 6: Communicating Between Angular Components
